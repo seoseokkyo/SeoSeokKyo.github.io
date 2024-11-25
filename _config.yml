@@ -22,13 +22,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 게임개발 학습용 프로젝트
+        title: Game Development Education Project
         link: github.com/seoseokkyo
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
