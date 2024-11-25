@@ -32,7 +32,7 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          저는 게임개발자 전향의 토대로 학원을 선택하였으며 해당 학원의 주된 목적은 <mark>UE5</mark> 학습 및 <mark>게임 개발의 기본지식</mark>이었습니다. 그간 실무에서 사용한 MFC / C++ / Git의 스킬 중 MFC프레임워크를 제외한 나머지를 바로 적용가능하기에 Unity엔진 학습보다는 조금 더 빠른 습득이 가능하리라는 생각이었습니다.
+          저는 게임개발자 전향의 토대로 학원을 선택하였으며 해당 학원의 주된 목적은 <mark>UE5</mark> 학습 및 <mark>게임 개발의 기본지식</mark> 이었습니다. 그간 실무에서 사용한 MFC / C++ / Git의 스킬 중 MFC프레임워크를 제외한 나머지를 바로 적용가능하기에 Unity엔진 학습보다는 조금 더 빠른 습득이 가능하리라는 생각이었습니다.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
