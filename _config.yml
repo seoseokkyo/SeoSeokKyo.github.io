@@ -86,8 +86,10 @@ content:
         caption: 2020-10-05 ~ 2023-10-28
         quote: >
           머신비전 장비제어 SW 엔지니어 업무 
-          <mark>C++</mark> <mark>MFC</mark> <mark>Git</mark> <mark>BeyondCompare(Tool)</mark>
         description: | # this will include new lines to allow paragraphs
+            주요 취득 스킬 : <mark>C++</mark> <mark>MFC</mark> <mark>Git</mark> <mark>BeyondCompare(Tool)</mark>
+             
+            
             장비가 제품의 외관적 불량을 검출할 수 있게 제품 로딩 / 검사 / 제품 언로딩의 시퀀스를 작성하여 장비를 제어. 
 
             하드웨어 테스트 프로그램 작성. 
