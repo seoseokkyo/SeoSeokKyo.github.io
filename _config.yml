@@ -59,6 +59,7 @@ content:
           학원에서는 6개월간 총 5가지 타이틀의 프로젝트를 진행하였으며 프로젝트의 타이틀은 다음과 같습니다.
           세부 내용은 포트폴리오에 작성하였습니다.
           
+          
           1 블루프린트를 사용하여 객체와 사용자간의 상호작용을 학습하기 위한 퍼즐게임       
         
           
@@ -128,7 +129,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
