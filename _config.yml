@@ -105,7 +105,7 @@ content:
 
             BeyondCompare라는 툴은 현장과 사내 서버 소스와의 괴리가 있을경우 양쪽의 소스를 비교 / 머지작업등을 위해 활용하거나 검사한 이미지의 검증등을 위해 사용한 툴이었습니다.
             
-            개발자로써 해당 업무들을 진행하며 아쉬웠던 점들을 꼽자면 
+            개발자로써 해당 업무들을 진행하며 아쉬웠던 점
             - 장비제어 관련은 인터넷 검색으로도 일반적인 개발방향등을 알기 어려웠으며 만약 있다 하여도 정작 현장에서는 인터넷사용에 제약이 있는 경우가 대다수였음.
             - 사수의 프로젝트 참여도 및 도움을 받을 수 있는 기회등이 너무 부족하여 어떻게든 혼자 해 내었더라도 만약 사수가 계속 있었더라면 내가 더 성장할 수 있었을텐데 하는 아쉬움이 있음.
             - 3년간 프로젝트를 진행하며 차근차근 문서들을 작성하였지만 정작 문서를 통해 현장에 인수인계자를 데려가서 견식시켜주며, 히스토리등을 설명해 줄 기회를 주지 않아 퇴사 후 프로젝트 진행에 어려움을 겪는 연락을 여러번 받음.
@@ -120,23 +120,9 @@ content:
         caption: 2017 - 2019
         sub_title: 정보통신시스템
         quote: >
-          ////추가 작성 필요////Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          진로를 개발자로 정한 시점
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+          컴퓨터 공학과와 같이 전문적으로 개발을 배우는 학과는 아니었으나 일부 겉핥기 수준이나마 개발관련 지식을 쌓을 수 있었으며 취직에 도움이 되겠다 싶어 정보처리 산업기사를 취득하였습니다.
 
 # Footer
 footer_show_references: true
