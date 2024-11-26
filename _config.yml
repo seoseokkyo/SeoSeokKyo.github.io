@@ -60,19 +60,19 @@ content:
           세부 내용은 포트폴리오에 작성하였습니다.
           
           
-          -[인터렉션아트]블루프린트를 사용하여 객체와 사용자간의 상호작용을 학습하기 위한 퍼즐게임       
+          - [인터렉션아트]블루프린트를 사용하여 객체와 사용자간의 상호작용을 학습하기 위한 퍼즐게임       
         
           
-          -[게임제작]블루프린트/C++을 사용하여 원하는 게임의 한 장면을 싱글플레이로 구현
+          - [게임제작]블루프린트/C++을 사용하여 원하는 게임의 한 장면을 싱글플레이로 구현
           
           
-          -[VR컨텐츠]블루프린트/C++을 사용하여 VR게임 제작
+          - [VR컨텐츠]블루프린트/C++을 사용하여 VR게임 제작
           
           
-          -[서버]C++을 사용하여 리슨서버로 게임제작
+          - [서버]C++을 사용하여 리슨서버로 게임제작
           
           
-          -[최종]블루프린트/C++을 사용하여 멀티게임 제작
+          - [최종]블루프린트/C++을 사용하여 멀티게임 제작
           
 
   - title: Experience # Title for the section
@@ -85,7 +85,8 @@ content:
         sub_title: Machine Vision SW Engineer
         caption: 2020-10-05 ~ 2023-10-28
         quote: >
-          머신비전 장비제어 SW 엔지니어 업무 <mark>C++</mark>, <mark>MFC</mark>, <mark>Git</mark>, <mark>BeyondCompare(Tool)</mark>
+          머신비전 장비제어 SW 엔지니어 업무 
+          <mark>C++</mark> <mark>MFC</mark> <mark>Git</mark> <mark>BeyondCompare(Tool)</mark>
         description: | # this will include new lines to allow paragraphs
             장비가 제품의 외관적 불량을 검출할 수 있게 제품 로딩 / 검사 / 제품 언로딩의 시퀀스를 작성하여 장비를 제어. 
 
