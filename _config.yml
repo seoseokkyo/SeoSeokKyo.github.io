@@ -19,6 +19,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   주요 스킬: <mark>C++</mark>
 
+<div id="resume-content" style="display:block;">
+
 content:
   - title: Business Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -59,6 +61,7 @@ content:
           <br>
           
           학원에서는 6개월간 총 5가지 타이틀의 프로젝트를 진행하였으며 프로젝트의 타이틀은 다음과 같습니다.
+          
           세부 내용은 포트폴리오에 작성하였습니다. 
           
           <br>                    
@@ -182,6 +185,8 @@ content:
           진로를 개발자로 정한 시점
         description: | # this will include new lines to allow paragraphs
           컴퓨터 공학과와 같이 전문적으로 개발을 배우는 학과는 아니었으나 일부 개발관련 지식을 쌓을 수 있었으며 취직에 도움이 되겠다 싶어 정보처리 산업기사를 취득하였습니다.
+
+</div>
 
 # Footer
 footer_show_references: true
