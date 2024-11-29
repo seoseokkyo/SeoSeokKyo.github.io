@@ -6,27 +6,24 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: SeoSeokKyo # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 안녕하십니까 저는 3년간 머신비전 장비제어 SW엔지니어로 근무하다 현재 게임개발자로의 전향을 꿈꾸고 있는 쥬니어 게임개발자입니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://seoseokkyo.github.io/"
 
 github:
-  username: github_username # change to your GitHub username
+  username: seoseokkyo # change to your GitHub username
 
 social:
   # Change to your full name.
@@ -41,17 +38,6 @@ social:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-# Prefer color scheme setting.
-#
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
-#
-# Available options:
-#
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
-#
 theme_mode: dark
 
 # The CDN endpoint for media resources.
@@ -62,7 +48,7 @@ theme_mode: dark
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/assets/img/profile.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -114,7 +100,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+#baseurl: "https://github.com/seoseokkyo"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -178,12 +164,3 @@ exclude:
   - LICENSE
   - "*.config.js"
   - package*.json
-
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
