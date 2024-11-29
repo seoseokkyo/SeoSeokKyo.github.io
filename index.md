@@ -6,11 +6,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Home
 ---
-
-# Welcome to My Portfolio and Resume
-
-## [Resume](posts/2024-11-01-resume.md)
-
-## [Portfolio](posts/2024-11-02-portfolio.md)
