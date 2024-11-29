@@ -20,8 +20,8 @@ layout: default
   <p>포트폴리오 관련 상세 내용...</p>
 </div>
 
-<button id="toggle-resume" onclick="showResume()">이력서 보기</button>
-<button id="toggle-portfolio" onclick="showPortfolio()">포트폴리오 보기</button>
+<button id="toggle-resume" onclick="showResume()">Resume</button>
+<button id="toggle-portfolio" onclick="showPortfolio()">Portfolio</button>
 
 <script>
   function showResume() {
