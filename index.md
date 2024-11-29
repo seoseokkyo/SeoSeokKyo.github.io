@@ -34,3 +34,23 @@ layout: default
     document.getElementById('portfolio-content').style.display = 'block';
   }
 </script>
+
+<style>
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background-color: white;
+}
+
+button.pressed {
+  background-color: #007bff;
+  color: white;
+  cursor: default;
+}
+
+button.idle:hover {
+  background-color: #f0f0f0;
+}
+</style>
