@@ -10,15 +10,16 @@ layout: default
 
 # 내 이력서
 
+
 <div id="resume-content">
-  <h2>이력서 내용</h2>
-  <p>이력서 관련 상세 내용...</p>
+  <h2>Test</h2>
+  <p>Test</p>
 </div>
 
 <div id="portfolio-content" style="display:none;">
-  <h2>포트폴리오 내용</h2>
-  <p>포트폴리오 관련 상세 내용...</p>
-</div>
+  <h2>Test</h2>
+  <p>Test</p>
+</div> 
 
 <button id="toggle-resume" onclick="showResume()">Resume</button>
 <button id="toggle-portfolio" onclick="showPortfolio()">Portfolio</button>
