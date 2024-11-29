@@ -8,7 +8,7 @@
 layout: default
 ---
 
-# 내 이력서
+# resume
 
 
 <div id="resume-content">
