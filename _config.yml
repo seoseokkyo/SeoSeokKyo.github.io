@@ -1,10 +1,10 @@
 # Site settings
-name: name
-email: email
-url: url
-description: "ÀÌ·Â¼­¿Í Æ÷Æ®Æú¸®¿À"
+name: seoseokkyo
+email: seoseokkyo@naver.com
+url: "https://github.com/seoseokkyo"
+description: "ì´ë ¥ì„œì™€ í¬íŠ¸í´ë¦¬ì˜¤"
 author: "author"
-title: "¼­¼®±³ ÀÚ±â¼Ò°³ ÆäÀÌÁöÀÔ´Ï´Ù."
+title: "ì„œì„êµ ìê¸°ì†Œê°œ í˜ì´ì§€ì…ë‹ˆë‹¤."
 permalink: pretty
 baseurl: ""
 
