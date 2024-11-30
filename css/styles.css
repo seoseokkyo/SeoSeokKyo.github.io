@@ -35,55 +35,41 @@ body {
   color: white;
 }
 
-/* 전체 컨테이너 */
+/* nav2에만 적용되는 스타일 */
 .nav2 {
-    display: flex;
-    justify-content: center; /* 가로 중앙 정렬 */
-    align-items: center; /* 세로 중앙 정렬 */
-    padding: 20px; /* 상하좌우 여백 추가 */
-    background-color: #f8f9fa; /* 배경색 (선택사항) */
+    background-color: #333; /* 예시 배경색 */
+    padding: 10px 0;
+    border: 1px solid #ccc;
 }
 
-/* 내부 컨테이너 */
-.container {
-    display: flex;
-    justify-content: center; /* 가로 중앙 정렬 */
-    flex-wrap: wrap; /* 화면 너비에 따라 줄바꿈 */
-    gap: 20px; /* 버튼 간 간격 */
-}
-
-/* 메뉴 버튼 */
-.nav2-item {
-    display: inline-block;
-    text-decoration: none; /* 기본 밑줄 제거 */
-    padding: 15px 25px; /* 버튼 크기 조정 */
-    font-size: 16px; /* 글자 크기 */
-    font-weight: bold; /* 글자 굵기 */
-    color: #333; /* 텍스트 색상 */
-    border: 2px solid #333; /* 외곽선 추가 */
-    border-radius: 8px; /* 둥근 모서리 */
-    transition: all 0.3s ease; /* 부드러운 전환 효과 */
-}
-
-    .nav2-item:hover {
-        background-color: #333; /* 마우스 오버 시 배경색 변경 */
-        color: #fff; /* 텍스트 색상 변경 */
+    /* nav2 내부의 메뉴와 링크들에만 스타일을 적용 */
+    .nav2 .nav2-menu {
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
-/* 반응형 토글 버튼 (햄버거 메뉴) */
-.nav2-toggle {
-    display: none; /* 기본적으로 숨김 */
-}
-
-/* 반응형 스타일 */
-@media (max-width: 768px) {
-    .nav2-menu {
-        flex-direction: column; /* 세로 배열 */
-        align-items: center; /* 가운데 정렬 */
+    .nav2 .nav2-item {
+        color: #fff;
+        margin: 0 15px;
+        text-decoration: none;
     }
 
-    .nav2-toggle {
-        display: block; /* 작은 화면에서 토글 버튼 보임 */
+        .nav2 .nav2-item:hover {
+            color: #f0f0f0;
+        }
+
+    /* nav2의 toggle 버튼에만 스타일을 적용 */
+    .nav2 .nav2-toggle {
+        display: block;
         cursor: pointer;
+        margin-top: 10px;
     }
-}
+
+        .nav2 .nav2-toggle span {
+            display: block;
+            width: 25px;
+            height: 3px;
+            background-color: #fff;
+            margin: 4px 0;
+        }
