@@ -1,7 +1,10 @@
 <nav class="nav2">
 
-    <div class="container">
+    <head>
+        <link rel="stylesheet" href="/assets/css/style.css">
+    </head>
 
+    <div class="container">
         <div class="nav2-center nav2-menu">
             {% for item in site.data.nav2.items %}
             <a class="nav2-item" href="{{ item.link | relative_url }}">
@@ -15,5 +18,4 @@
             <span></span>
             <span></span>
         </span>
-
 </nav>
