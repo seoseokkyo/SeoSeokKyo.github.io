@@ -2,15 +2,12 @@
 name: name
 email: email
 url: url
-description: "A blog and a portfolio"
+description: "이력서와 포트폴리오"
 author: "author"
-title: "BlogFolio"
+title: "서석교 자기소개 페이지입니다."
 permalink: pretty
 baseurl: ""
 
 # social
 github:
-  username: username
-
-twitter:
-  username: username
+  username: seoseokkyo
