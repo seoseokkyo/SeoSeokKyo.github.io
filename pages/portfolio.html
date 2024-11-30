@@ -4,6 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+
 <div class="columns is-multiline">
 
     {% for item in site.data.portfolio.items %}
@@ -27,7 +28,8 @@ permalink: /portfolio/
                     <span class="tag is-primary">{{tech}}</span> {% endfor %}
                 </div>
                 <footer class="card-footer">
-                    <a class="card-footer-item" href="{{item.link}}" target="_blank"><span>Check it out</span></a>
+                    <a class="card-footer-item" href="{{item.gitHubLink}}" target="_blank"><span>GitHub Link</span></a>
+                    <a class="card-footer-item" href="{{item.videoLink}}" target="_blank"><span>Project Video Link</span></a>
                 </footer>
             </div>
         </div>

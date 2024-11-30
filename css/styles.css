@@ -1,4 +1,4 @@
-.footer {
+ï»¿.footer {
   background-color: whitesmoke;
   padding: 3rem 1.5rem 6rem;
 }
@@ -35,14 +35,16 @@ body {
   color: white;
 }
 
-/* nav2¿¡¸¸ Àû¿ëµÇ´Â ½ºÅ¸ÀÏ */
+/* nav2ì—ë§Œ ì ìš©ë˜ëŠ” ìŠ¤íƒ€ì¼ */
 .nav2 {
-    background-color: #333; /* ¿¹½Ã ¹è°æ»ö */
-    padding: 10px 0;
-    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-color: #f8f9fa;
 }
 
-    /* nav2 ³»ºÎÀÇ ¸Ş´º¿Í ¸µÅ©µé¿¡¸¸ ½ºÅ¸ÀÏÀ» Àû¿ë */
+    /* nav2 ë‚´ë¶€ì˜ ë©”ë‰´ì™€ ë§í¬ë“¤ì—ë§Œ ìŠ¤íƒ€ì¼ì„ ì ìš© */
     .nav2 .nav2-menu {
         display: flex;
         justify-content: center;
@@ -50,26 +52,34 @@ body {
     }
 
     .nav2 .nav2-item {
-        color: #fff;
-        margin: 0 15px;
+        display: inline-block;
         text-decoration: none;
+        margin: 10px 15px;
+        padding: 5px 60px;
+        font-size: 32px;
+        font-weight: bold;
+        color: #333;
+        border: 2px solid #333;
+        border-radius: 8px;
+        transition: all 0.3s ease;
     }
 
         .nav2 .nav2-item:hover {
-            color: #f0f0f0;
+            background-color: #333;
+            color: #fff;
         }
 
-    /* nav2ÀÇ toggle ¹öÆ°¿¡¸¸ ½ºÅ¸ÀÏÀ» Àû¿ë */
+    /* nav2ì˜ toggle ë²„íŠ¼ì—ë§Œ ìŠ¤íƒ€ì¼ì„ ì ìš© */
     .nav2 .nav2-toggle {
         display: block;
         cursor: pointer;
-        margin-top: 10px;
+        margin-top: 0px;
     }
 
         .nav2 .nav2-toggle span {
             display: block;
             width: 25px;
-            height: 3px;
+            height: 0px;
             background-color: #fff;
-            margin: 200px 0;
+            margin: 4px 10px;
         }
