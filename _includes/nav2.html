@@ -1,0 +1,19 @@
+<nav2 class="nav2">
+
+    <div class="container">
+
+        <div class="nav2-center nav2-menu">
+            {% for item in site.data.nav2.items %}
+            <a class="nav2-item" href="{{ item.link | relative_url }}">
+                <span>{{item.name}}</span>
+            </a>
+            {% endfor %}
+        </div>
+
+        <span class="nav2-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </span>
+
+</nav2>
