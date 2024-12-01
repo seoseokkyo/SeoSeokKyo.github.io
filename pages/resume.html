@@ -68,10 +68,24 @@ permalink: /resume/
                     {% for item in section.content %}
                         <li>
                             <h3>{{ item.title }}</h3>
-                            <a href="{{ item.Gitlink }}" target="_blank" class="resume-link">Project GitHub</a>
-                            <a href="{{ item.Videolink }}" target="_blank" class="resume-link">Project Video</a>
+
+                            {% if item.Gitlink %}
+                            <a href="{{ item.Gitlink }}" target="_blank" class="resume-link">GitHub</a>
+                            {% endif %}
+
+                            {% if item.ProjectGitlink %}
+                              <a href="{{ item.ProjectGitlink }}" target="_blank" class="resume-link">Project GitHub</a>
+                            {% endif %}
+                        
+                            {% if item.Videolink %}
+                               <a href="{{ item.Videolink }}" target="_blank" class="resume-link">Project Video</a>
+                            {% endif %}
+                        
                             <blockquote>{{ item.quote }}</blockquote>
-                            <p class="description">{{ item.description | newline_to_br }}</p>
+                        
+                            {% if item.description %}
+                              <p class="description">{{ item.description | newline_to_br }}</p>
+                            {% endif %}
                         </li>
                         <br><br>
                     {% endfor %}
