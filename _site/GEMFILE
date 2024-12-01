@@ -1,0 +1,18 @@
+source 'https://rubygems.org'
+
+# Jekyll의 버전 설정
+gem 'jekyll', '~> 3.9'
+
+# GitHub Pages 관련 의존성
+gem 'github-pages', '~> 228'
+
+# 개발 및 배포 시 사용될 다른 필수적인 gem들
+gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+
+# Optional, 로컬 서버 실행 시 필요한 gem
+gem 'webrick', '~> 1.7'
+
+# 필요한 경우 추가적인 gem들
+# gem 'jekyll-paginate'
