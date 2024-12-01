@@ -53,8 +53,6 @@ body {
   margin-right: 0; /* 마지막 링크에는 간격 제거 */
 }
 
-
-
 /* nav2에만 적용되는 스타일 */
 .nav2 {
     display: flex;
