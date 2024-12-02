@@ -82,6 +82,22 @@ body {
         transition: all 0.3s ease;
     }
 
+    @media (max-width: 768px) {
+      .nav2 .nav2-item {
+          font-size: 18px; /* 작은 폰트 크기 */
+          padding: 8px 16px; /* 줄어든 패딩 */
+          margin: 8px 10px; /* 줄어든 마진 */
+      }
+  }
+
+  @media (max-width: 480px) {
+    .nav2 .nav2-item {
+        font-size: 16px; /* 더 작은 폰트 크기 */
+        padding: 5px 10px; /* 더 줄어든 패딩 */
+        margin: 5px 8px; /* 더 줄어든 마진 */
+    }
+}
+
         .nav2 .nav2-item:hover {
             background-color: #333;
             color: #fff;

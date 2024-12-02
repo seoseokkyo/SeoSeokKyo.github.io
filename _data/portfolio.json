@@ -4,7 +4,20 @@
       "name": "Project One",
       "gitHubLink": "https://github.com/seoseokkyo/First_Project_EscapeSimulater",
       "videoLink": "https://youtu.be/rhqaPD50Tzc",
-      "image": "/images/landscape-trees.jpg",
+      "image": "/images/Projects/First_Thumbnail.jpg",
+      "date_added": "2024-02-19 ~ 2024-03-14",
+      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "technologies": [
+        "UnrealEngine5",
+        "Git/GitHub",
+        "Blueprint"
+      ]
+    },
+    {
+      "name": "Project Second",
+      "gitHubLink": "https://github.com/seoseokkyo/EromSoft_Last",
+      "videoLink": "https://youtu.be/wzCimXpnVnY",
+      "image": "http://via.placeholder.com/480x320",
       "date_added": "2017-06-09",
       "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
       "technologies": [
@@ -17,6 +30,51 @@
     },
     {
       "name": "Project Second",
+      "gitHubLink": "https://github.com/seoseokkyo/CookingSimulator",
+      "videoLink": "https://youtu.be/510l9_s6T34",
+      "image": "http://via.placeholder.com/480x320",
+      "date_added": "2017-06-09",
+      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "technologies": [
+        "Java",
+        "Spring Framework",
+        "Postgres",
+        "JavaScript",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Project Second",
+      "gitHubLink": "https://github.com/seoseokkyo/MithrilDungeon",
+      "videoLink": "https://youtu.be/nXSmL2QS0jE",
+      "image": "http://via.placeholder.com/480x320",
+      "date_added": "2017-06-09",
+      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "technologies": [
+        "Java",
+        "Spring Framework",
+        "Postgres",
+        "JavaScript",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Project Second",
+      "gitHubLink": "https://github.com/seoseokkyo/VICTIMS",
+      "videoLink": "https://youtu.be/7GiR6kYq-Zk",
+      "image": "http://via.placeholder.com/480x320",
+      "date_added": "2017-06-09",
+      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "technologies": [
+        "Java",
+        "Spring Framework",
+        "Postgres",
+        "JavaScript",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Business Project",
       "gitHubLink": "",
       "videoLink": "",
       "image": "http://via.placeholder.com/480x320",
