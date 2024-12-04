@@ -5,19 +5,19 @@
       "gitHubLink": "https://github.com/seoseokkyo/CodingStyle",
       "image": "/images/Projects/CodingStyle.jpg",
       "date_added": "2024-02-07",
-      "description": "개인 프로젝트를 할 때 사용하는 가장 익숙한 코딩스타일 예제입니다.</em></small>",
+      "description": "개인 프로젝트를 할 때 사용하는 가장 익숙한 코딩스타일 예제입니다.<br><small><em>세부 내용은 하단 깃허브 링크 참조부탁드립니다.</em></small>",
       "technologies": [
         "C++",
         "MFC"
       ]
     },
     {
-      "name": "Project One",
-      "gitHubLink": "https://github.com/seoseokkyo/First_Project_EscapeSimulater",
+      "name": "Educational Project 1",
+      "gitHubLink": "https://github.com/seoseokkyo/First_Project_EscapeSimulater/tree/SSK_Readme",
       "videoLink": "https://youtu.be/rhqaPD50Tzc",
-      "image": "/images/Projects/First_Thumbnail.jpg",
+      "image": "/images/Projects/EducationalProject1_Thumbnail.jpg",
       "date_added": "2024-02-19 ~ 2024-03-14",
-      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "description": "This is a description<br><small><em>세부 내용은 하단 깃허브 링크 참조부탁드립니다.</em></small>",
       "technologies": [
         "UnrealEngine5",
         "Git/GitHub",
@@ -25,78 +25,79 @@
       ]
     },
     {
-      "name": "Project Second",
-      "gitHubLink": "https://github.com/seoseokkyo/EromSoft_Last",
+      "name": "Educational Project 2",
+      "gitHubLink": "https://github.com/seoseokkyo/EromSoft_Last/tree/SSK_Readme",
       "videoLink": "https://youtu.be/wzCimXpnVnY",
-      "image": "http://via.placeholder.com/480x320",
+      "image": "/images/Projects/EducationalProject2_Thumbnail.jpg",
       "date_added": "2017-06-09",
-      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "description": "This is a description<br><small><em>세부 내용은 하단 깃허브 링크 참조부탁드립니다.</em></small>",
       "technologies": [
-        "Java",
-        "Spring Framework",
-        "Postgres",
-        "JavaScript",
-        "AngularJS"
+        "UnrealEngine5",
+        "Git/GitHub",
+        "Blueprint",
+        "Blender"
       ]
     },
     {
-      "name": "Project Second",
-      "gitHubLink": "https://github.com/seoseokkyo/CookingSimulator",
+      "name": "Educational Project 3",
+      "gitHubLink": "https://github.com/seoseokkyo/CookingSimulator/tree/SSK_Readme",
       "videoLink": "https://youtu.be/510l9_s6T34",
-      "image": "http://via.placeholder.com/480x320",
+      "image": "/images/Projects/EducationalProject3_Thumbnail.jpg",
       "date_added": "2017-06-09",
-      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "description": "This is a description<br><small><em>세부 내용은 하단 깃허브 링크 참조부탁드립니다.</em></small>",
       "technologies": [
-        "Java",
-        "Spring Framework",
-        "Postgres",
-        "JavaScript",
-        "AngularJS"
+        "UnrealEngine5",
+        "Git/GitHub",
+        "Blueprint",
+        "Blender"
       ]
     },
     {
-      "name": "Project Second",
-      "gitHubLink": "https://github.com/seoseokkyo/MithrilDungeon",
+      "name": "Educational Project 4",
+      "gitHubLink": "https://github.com/seoseokkyo/MithrilDungeon/tree/SSK_Readme",
       "videoLink": "https://youtu.be/nXSmL2QS0jE",
-      "image": "http://via.placeholder.com/480x320",
+      "image": "/images/Projects/EducationalProject4_Thumbnail.jpg",
       "date_added": "2017-06-09",
-      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "description": "This is a description<br><small><em>세부 내용은 하단 깃허브 링크 참조부탁드립니다.</em></small>",
       "technologies": [
-        "Java",
-        "Spring Framework",
-        "Postgres",
-        "JavaScript",
-        "AngularJS"
+        "UnrealEngine5",
+        "Git/GitHub",
+        "Blueprint",
+        "Blender"
       ]
     },
     {
-      "name": "Project Second",
+      "name": "Educational Project 5",
       "gitHubLink": "https://github.com/seoseokkyo/VICTIMS",
       "videoLink": "https://youtu.be/7GiR6kYq-Zk",
-      "image": "http://via.placeholder.com/480x320",
+      "image": "/images/Projects/EducationalProject5_Thumbnail.jpg",
       "date_added": "2017-06-09",
-      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "description": "This is a description<br><small><em>세부 내용은 하단 깃허브 링크 참조부탁드립니다.</em></small>",
       "technologies": [
-        "Java",
-        "Spring Framework",
-        "Postgres",
-        "JavaScript",
-        "AngularJS"
+        "UnrealEngine5",
+        "Git/GitHub",
+        "Blueprint",
+        "Blender"
       ]
     },
     {
       "name": "Business Project",
-      "gitHubLink": "",
-      "videoLink": "",
-      "image": "http://via.placeholder.com/480x320",
+      "image": "/images/Projects/ZVLabLogo.jpg",
       "date_added": "2017-06-09",
-      "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+      "description": "머신비전 제어 SW 엔지니어로 3년간 업무를 진행한 경력이 있습니다.<br>업무를 진행하며 습득한 기술들은 하단의 마크와 같습니다.<br><small><em>상용 프로젝트이므로 세부 내용 참조가 어려운 점 양해부탁드립니다.</em></small>",
       "technologies": [
-        "Java",
-        "Spring Framework",
-        "Postgres",
-        "JavaScript",
-        "AngularJS"
+        "C++",
+        "MFC",
+        "Computer Science",
+        "Multi Thread",
+        "Communication Interface",
+        "ThirdParty Library",
+        "Machine Vision",
+        "2D Coordinate Systems",
+        "Business Negotiation",
+        "Customer Service",
+        "Excel Data Analysis",
+        "Git"
       ]
     }
   ]
