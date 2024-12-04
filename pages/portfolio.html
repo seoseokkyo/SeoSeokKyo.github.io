@@ -28,8 +28,12 @@ permalink: /portfolio/
                     <span class="tag is-primary">{{tech}}</span> {% endfor %}
                 </div>
                 <footer class="card-footer">
+                    {% if item.gitHubLink %}
                     <a class="card-footer-item" href="{{item.gitHubLink}}" target="_blank"><span>GitHub Link</span></a>
+                    {% endif %}
+                    {% if item.videoLink %}
                     <a class="card-footer-item" href="{{item.videoLink}}" target="_blank"><span>Project Video Link</span></a>
+                    {% endif %}
                 </footer>
             </div>
         </div>
