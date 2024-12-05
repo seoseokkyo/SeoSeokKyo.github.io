@@ -96,9 +96,13 @@
               "link": "https://www.zv-lab.com/",
               "sub_title": "Machine Vision SW Engineer",
               "caption": "2020-10-05 ~ 2023-10-28",
-              "quote": "주요 취득 스킬 : <mark>C++</mark> <mark>MFC</mark> <mark>Git</mark> <mark>BeyondCompare(Tool)</mark> 
-              <mark>Computer Science</mark> <mark>Multi Thread</mark> <mark>Communication Interface</mark> <mark>ThirdParty Library</mark> <mark>Machine Vision</mark> 
-              <mark>2D Coordinate Systems</mark> <mark>Business Negotiation</mark> <mark>Customer Service</mark> <mark>Excel Data Analysis</mark>",
+              "quote": "주요 취득 스킬 <br>
+              <mark>C++</mark> <mark>MFC</mark> <mark>Git</mark> <mark>BeyondCompare</mark> <br>
+              <mark>Computer Science</mark> <mark>Multi Thread</mark> <br>
+              <mark>Communication Interface</mark> <mark>ThirdParty Library</mark> <br>
+              <mark>Machine Vision</mark> <mark>2D Coordinate Systems</mark> <br>
+              <mark>Business Negotiation</mark> <mark>Customer Service</mark> <br>
+              <mark>Excel Data Analysis</mark>",
               "description": "
               장비가 제품의 외관적 불량을 검출할 수 있게 제품 로딩 / 검사 / 제품 언로딩의 시퀀스를 작성하여 장비를 제어.
               \n\n- 각 모듈의 인터페이스를 통한 제어코드 작성
