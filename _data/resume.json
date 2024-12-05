@@ -75,7 +75,7 @@
           {
             "layout": "top-middle",
             "title": "[최종] 블루프린트/C++을 사용하여 멀티게임 제작",
-            "ProjectGitlink": "https://github.com/seoseokkyo/VICTIMS",
+            "ProjectGitlink": "https://github.com/seoseokkyo/VICTIMS/tree/SSK_Readme",
             "Videolink": "https://youtu.be/7GiR6kYq-Zk",
             "quote": "7주간 5인으로 진행한 최종 프로젝트 (Loot Shooter 장르)<br> <mark>멀티 플레이</mark> <mark>데디케이트</mark> <mark>하우징</mark> <mark>다중 서버</mark>",
             "description": "여러 맵을 준비하였으나 서버관련 이슈로 1개의 필드 / 1개의 홈타운만 사용<br> 
